@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/urdfdom-release
+release_repo_url: git@github.com:revyos-ros/urdfdom-release.git
 tracks:
   ardent:
     actions:
