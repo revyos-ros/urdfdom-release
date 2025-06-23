@@ -1,3 +1,26 @@
+## urdfdom (jazzy) - 4.0.2-1
+
+The packages in the `urdfdom` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy urdfdom --override-release-repository-push-url git@github.com:revyos-ros/urdfdom-release.git --edit` on `Mon, 23 Jun 2025 04:48:11 -0000`
+
+The `urdfdom` package was released.
+
+Version of package(s) in repository `urdfdom`:
+
+- upstream repository: https://github.com/ros/urdfdom.git
+- release repository: https://github.com/revyos-ros/urdfdom-release.git
+- rosdistro version: `4.0.2-1`
+- old version: `4.0.1-2`
+- new version: `4.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## urdfdom (jazzy) - 4.0.1-2
 
 The packages in the `urdfdom` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy urdfdom --override-release-repository-push-url git@github.com:revyos-ros/urdfdom-release.git` on `Mon, 23 Jun 2025 04:42:20 -0000`
